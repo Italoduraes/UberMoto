@@ -165,6 +165,20 @@ public class BDSimulado {
     	return resultado;
     }
     
+      // QUESTÃO 3.c
+    
+    public String getUfsDefora(String passageiro){
+    	
+    	String resultado = "";
+    	
+    	for (int i = 0; i <this.viagem.size(); i++) {
+			if(this.viagem.get(i).getPassageiro().getNome().equals(passageiro)){
+				resultado = this.viagem.get(i).getUF();
+			}
+		}
+    	return resultado;
+    }
+    
     
     // QUESTÃO 3.d
     

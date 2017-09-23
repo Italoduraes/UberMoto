@@ -42,6 +42,11 @@ public class Principal {
 			//System.out.println(MesEAno.get(i).getMotoqueiro());
 		}
 				
+		// QUESTÃO 3.c
+		
+		//System.out.println(bds.getUfsDefora("Jhonson Lever"));
+		
+		
 		
 		// QUESTÃO 3.d
 		
