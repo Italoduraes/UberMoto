@@ -16,7 +16,7 @@ public class Principal {
 		
 		
 		//QUESTÃO 2.a
-				//System.out.println(bds.getInfoPassageiro("Wesley Rodrigues"));
+				System.out.println(bds.getInfoPassageiro("Wesley Rodrigues"));
 		
 		//QUESTÃO 2.b
 				
